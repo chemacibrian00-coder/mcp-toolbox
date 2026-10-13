@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.15.0](https://github.com/googleapis/mcp-toolbox/compare/v1.14.0...v1.15.0) (2026-10-13)
+
+
+### Features
+
+* **conversational-analytics:** Add create, update, and delete data agent tools ([#3685](https://github.com/googleapis/mcp-toolbox/issues/3685)) ([aaf8841](https://github.com/googleapis/mcp-toolbox/commit/aaf88413e117856f80f646da7f1dbc63ebaedea3))
+
+
+### Bug Fixes
+
+* **tools:** Remove `Authorized()` from Tool interface to ensure centralized `authRequired` check ([#4254](https://github.com/googleapis/mcp-toolbox/issues/4254)) ([00ce635](https://github.com/googleapis/mcp-toolbox/commit/00ce6356a539242ebb94729038efe960c7173387))
+
 ## [1.14.0](https://github.com/googleapis/mcp-toolbox/compare/v1.13.1...v1.14.0) (2026-10-08)
 
 
