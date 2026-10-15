@@ -205,14 +205,12 @@ For more details on configuring prompts, see the
 [Prompts](https://mcp-toolbox.dev/documentation/configuration/prompts/).
 
 ---
-
 ## Install & Run the Toolbox server
 
 You can run Toolbox directly with a [configuration file](#quick-start-custom-tools):
-
 ```sh
 npx @toolbox-sdk/server --config tools.yaml
-```
+```4f7688402bdbdd86abf8c66c706770051b796dfa
 
 This runs the latest version of the Toolbox server with your configuration file.
 
